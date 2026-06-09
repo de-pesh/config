@@ -1,0 +1,26 @@
+[
+  {
+    "product_link": "https://example.com/product/sku123",
+    "product name": "Acme Widgets Pro",
+    "price issue": false,
+    "check issue": false
+  },
+  {
+    "product_link": "https://example.com/product/sku456",
+    "product name": "Super Gadget X",
+    "price issue": true,
+    "check issue": false
+  },
+  {
+    "product_link": "https://example.com/product/sku789",
+    "product name": "Mega Blaster 2000",
+    "price issue": false,
+    "check issue": true
+  },
+  {
+    "product_link": "https://example.com/product/sku010",
+    "product name": "Quantum Leap Device",
+    "price issue": true,
+    "check issue": true
+  }
+]
